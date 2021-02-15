@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: Roboto;
+}
+p,
+li,
+a {
+  font-family: Poppins;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+main {
+  margin-top: 15vh;
+}
+
+textarea {
+  resize: none;
+}
